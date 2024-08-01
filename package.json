@@ -203,7 +203,7 @@
     "@sentry/tracing": "^7.23.0",
     "@swc/core": "1.6.7",
     "@testing-library/react": "~14.3.1",
-    "@types/deep-equal": "1.0.1",
+    "@types/deep-equal": "1.0.4",
     "@types/http-proxy": "~1.17.9",
     "@types/inquirer": "^8.2.0",
     "@types/jwt-encode": "~1.0.0",
