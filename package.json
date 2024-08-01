@@ -219,7 +219,7 @@
     "chalk": "4",
     "chokidar": "3.5.3",
     "commander": "^11.1.0",
-    "deep-equal": "2.1.0",
+    "deep-equal": "2.2.3",
     "depcheck": "~1.4.7",
     "dotenv": "^16.0.3",
     "dprint": "0.46.1",
