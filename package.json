@@ -233,7 +233,7 @@
     "find-up": "^6.3.0",
     "happy-dom": "~14.12.3",
     "http-proxy": "~1.18.1",
-    "inquirer": "^9.1.4",
+    "inquirer": "^10.0.0",
     "inquirer-search-list": "~1.2.6",
     "jsdom": "~24.1.0",
     "jwt-encode": "~1.0.1",
